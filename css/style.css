@@ -195,6 +195,12 @@ transition: 0.5s all;
 	box-shadow: 0 1px 8px 3px rgba(0,0,0,0.05);
 	transition: 0.5s all;
 }
+.nav-scroll .navbar-nav li a{
+	color: #333 !important;
+}
+.navbar-dark .navbar-nav .nav-link.active{
+	color: #1957f3 !important;
+}
 /*** banner section css***/
 .banner{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/images1.jpeg);
