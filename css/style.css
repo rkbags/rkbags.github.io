@@ -146,9 +146,11 @@ html{
 }
 .navbar .navbar-toggler span{
 	color: #fff;
+	float: right;
 }
 .navbar .navbar-toggler{
 	border: none;
+	float: right;
 }
 .navbar .navbar-toggler:focus,
 .navbar .navbar-toggler:active{
