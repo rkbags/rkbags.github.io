@@ -1,4 +1,4 @@
-$(window).scroll(funtion() {}
+$(window).scroll(function() {
   var scroll= $(window).scrollTop();
 
   if (scroll >= 10) {
@@ -6,7 +6,7 @@ $(window).scroll(funtion() {}
   } else {
     $(".navbar").removeclass("nav-scroll");
   }
-;
+});
 
 
 
