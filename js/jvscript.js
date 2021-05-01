@@ -1,4 +1,4 @@
-$(window).scroll(funtion() {}
+$(window).scroll(function() {
   var scroll= $(window).scrollTop();
 
   if (scroll >= 10) {
