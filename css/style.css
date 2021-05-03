@@ -206,7 +206,7 @@ transition: 0.5s all;
 /*** banner section css***/
 .banner{
 	background-image: url(../images/back1.jpeg);
-	background-attachment: fixed;
+	background-attachment:flex;
 	height:100vh;
 	width: 100%;
 	
